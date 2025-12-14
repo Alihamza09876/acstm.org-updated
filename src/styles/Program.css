@@ -1,0 +1,65 @@
+.double {
+    background-color: #f1f1f1;
+    border-top: double;
+    border-bottom: double !important;
+    margin-bottom: 15px;
+}
+
+.luncht {
+    background-color: #f7f7f7;
+    border-top: double;
+    margin-bottom: 15px;
+    border-bottom: none !important;
+}
+
+.lunchc {
+    background-color: #f7f7f7;
+    margin-bottom: 5px;
+    border-bottom: none !important;
+}
+
+.lunchb {
+    background-color: #f7f7f7;
+    border-bottom: double !important;
+    border-top: none !important;
+    margin-bottom: 15px;
+}
+
+.schedule-item {
+    padding-bottom: 5px !important;
+}
+
+.btn-container {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 30px;
+    /* Space between buttons */
+}
+
+.btn-down-arrow::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    /* Adjust to position below the button */
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #149dcc;
+    /* Color of the arrow */
+}
+
+h4 {
+    margin-top: 0px !important;
+    line-height: 25px;
+}
+
+u.lowercase {
+    text-transform: lowercase;
+    font-style: inherit;
+    font-weight: inherit;
+    color: inherit;
+    text-decoration: none;
+}
