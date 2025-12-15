@@ -17,7 +17,7 @@ function App() {
         {/* Placeholder for other routes like /register */}
         <Route path="/program2" element={<div className="container mt-5 pt-5"><h1>Program Room 2 (Coming Soon)</h1></div>} />
         <Route path="/program3" element={<div className="container mt-5 pt-5"><h1>Program Room 3 (Coming Soon)</h1></div>} />
-        <Route path="/register" element={<div className="container mt-5 pt-5"><h1>Register Page (Coming Soon)</h1></div>} />
+        <Route path="/register" element={<div className="container mt-5 pt-5"><h1>Register Page (Closed)</h1></div>} />
       </Routes>
       <Footer />
     </Router>

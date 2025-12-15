@@ -23,7 +23,7 @@ const Hero = () => {
                 WebkitTextStrokeColor: "#011E81",
               }}
             >
-              2025
+              2024
             </span>
           </h1>
           <h3 className="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-5">
