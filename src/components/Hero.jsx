@@ -40,13 +40,13 @@ const Hero = () => {
             platform for both early-career and established scientists and
             researchers to share exciting ideas, refresh their knowledge,
             strengthen collaboration, and build new networks across disciplines.
-            Attending ACSTM-2025 is an opportunity for a rewarding experience.
+            Attending ACSTM-2024 is an opportunity for a rewarding experience.
           </p>
           <h4
             className="align-left mbr-fonts-style display-4 mb-3 mbr-bold"
             style={{ color: "#0d6786" }}
           >
-            17-18 September 2024 | Event Ended
+            17-18 September 2024  Xi'an, China| Event Ended
           </h4>
           <div className="navbar-buttons mbr-section-btn">
             <a
